@@ -7,8 +7,8 @@ import Services from "../views/Services.vue";
 const routes = [
   { path: "/", name: "Home", component: Home },
   { path: "/projects", name: "Projects", component: Projects },
-  { path: "/contacts", name: "Contacts", component: Contacts },
   { path: "/services", name: "Services", component: Services },
+  { path: "/contacts", name: "Contacts", component: Contacts },
 ];
 
 const router = createRouter({
