@@ -20,16 +20,16 @@
           Projects
         </router-link>
         <router-link
-          to="/contacts"
-          class="text-gray-400 hover:text-white text-lg transition duration-300"
-        >
-          Contacts
-        </router-link>
-        <router-link
           to="/services"
           class="text-gray-400 hover:text-white text-lg transition duration-300"
         >
           Services
+        </router-link>
+        <router-link
+          to="/contacts"
+          class="text-gray-400 hover:text-white text-lg transition duration-300"
+        >
+          Contacts
         </router-link>
       </div>
     </div>
