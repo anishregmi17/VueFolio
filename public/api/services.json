@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Front-end Development",
+    "description": "Building responsive and interactive user interfaces using technologies like HTML, CSS, JavaScript, and frameworks like React and Vue."
+  },
+  {
+    "title": "UI/UX Design",
+    "description": "Designing user-friendly interfaces with a focus on user experience and aesthetic design."
+  },
+  {
+    "title": "Back-end Development",
+    "description": "Server-side development, working with databases, and managing business logic using PHP, LARAVEL AND FILAMENT"
+  },
+  {
+    "title": "Database Management",
+    "description": "Database architecture, development, and maintenance using MySQL, PostgreSQL, sqlite, and more."
+  }
+]
