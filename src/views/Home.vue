@@ -17,12 +17,10 @@
         </h2>
         <p class="mt-2 text-gray-600 text-lg">CS Student and Tech Enthusiast</p>
       </div>
-
       <a
-        href="#projects"
-        class="mt-4 px-6 py-3 bg-blue-500 text-white rounded-lg text-lg font-medium hover:bg-blue-600 transition duration-300 shadow-md"
+        class="border-2 border-blue-500 text-blue-500 hover:bg-blue-500 hover:text-white transition duration-300 px-4 py-2 rounded-lg"
       >
-        Check out my Projects
+        <router-link to="/projects" class="block"> Projects </router-link>
       </a>
     </div>
   </div>
